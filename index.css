@@ -2,3 +2,11 @@ li {
     color: #000000;
     background-color: #99cc00
     }
+
+body {
+    padding-top: 50px
+}
+
+.starter-template {
+    padding: 40px 15px;
+}
