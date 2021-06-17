@@ -1,10 +1,17 @@
 li {
     color: #000000;
-    background-color: #99cc00
+    background-color: #99cc00;
     }
 
 
 p {
-    background-color:gray
+    background-color:gray;
 }
 
+body {
+    padding-top: 50px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+}
