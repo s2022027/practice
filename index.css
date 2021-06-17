@@ -3,9 +3,13 @@ li {
     background-color: #99cc00
     }
 
-    
+
 body {
     padding-top: 50px
+}
+
+p {
+    background-color:gray
 }
 
 
