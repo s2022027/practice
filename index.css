@@ -1,8 +1,12 @@
+@charset "uft-8";
+
 li {
     color: #000000;
-    background-color: #99cc00;
     }
 
+h2 {
+    background: skyblue
+}
 
 p {
     background-color:gray;
