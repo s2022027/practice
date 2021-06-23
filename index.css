@@ -3,7 +3,7 @@
 li {
     color: black;
     background: aliceblue;
-    font-size: 5em;
+    font-size: 20px;
     }
 
 h2 {
@@ -12,7 +12,7 @@ h2 {
 
 p {
     background-color: aliceblue;
-    font-size: 5em;
+    font-size: 20px;
 }
 
 body {
