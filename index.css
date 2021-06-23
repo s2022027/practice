@@ -2,6 +2,8 @@
 
 li {
     color: #000000;
+    background: gray;
+    font-size: 5em;
     }
 
 h2 {
@@ -10,7 +12,7 @@ h2 {
 
 p {
     background-color:gray;
-    font-size: 8em;
+    font-size: 5em;
 }
 
 body {
