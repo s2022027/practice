@@ -10,6 +10,7 @@ h2 {
 
 p {
     background-color:gray;
+    font-size: 3em;
 }
 
 body {
@@ -17,5 +18,9 @@ body {
 }
 
 .starter-template {
+    padding: 40px 15px;
+}
+
+video {
     padding: 40px 15px;
 }
