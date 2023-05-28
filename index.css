@@ -1,4 +1,7 @@
 @charset "uft-8";
+html {
+    background-color: #EEFFFF;
+}
 
 h1 {
     background-color: rgb(180, 195, 216);
@@ -29,7 +32,6 @@ a {
 
 body {
     padding-top: 50px;
-    background-color: Maroon;
 }
 
 .starter-template {
